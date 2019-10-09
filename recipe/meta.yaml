@@ -1,12 +1,12 @@
-{% set version = "2016.6.4" %}
+{% set version = "2018.5" %}
 
 package:
   name: l18n
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/l/l18n/l18n-{{ version }}.zip
-  sha256: a72b9a80b297da5bc807f347bfa61aa9900c35bf1bb55e61a17ec7e58d9e0de7
+  url: https://pypi.io/packages/source/l/l18n/l18n-{{ version }}.tar.gz
+  sha256: 46e72c980d06a7511726f1da10a32fa524f7e2937c0af5ad52d39577024a4382
 
 build:
   number: 0
