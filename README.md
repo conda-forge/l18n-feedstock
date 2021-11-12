@@ -1,7 +1,7 @@
 About l18n
 ==========
 
-Home: https://bitbucket.org/tkhyn/l18n
+Home: https://github.com/tkhyn/l18n
 
 Package license: MIT
 
