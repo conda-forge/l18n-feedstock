@@ -1,4 +1,4 @@
-{% set version = "2018.5" %}
+{% set version = "2021.3" %}
 
 package:
   name: l18n
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/l/l18n/l18n-{{ version }}.tar.gz
-  sha256: 46e72c980d06a7511726f1da10a32fa524f7e2937c0af5ad52d39577024a4382
+  sha256: 1956e890d673d17135cc20913253c154f6bc1c00266c22b7d503cc1a5a42d848
 
 build:
   number: 0
